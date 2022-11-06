@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c96ab462-d711-490a-9015-b7311dd63dbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/datatypes/PrimitiveTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datatypes/ReferenceTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/Manipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/variablesandconstants/variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TheMathClass/CeilMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TheMathClass/FloorMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TheMathClass/MaxMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TheMathClass/RandomMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TheMathClass/RoundMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TheMathClass/minMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/castings/ExplicitCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/castings/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/formattingnumbers/NumberFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/readinginput/ScannerClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codehelloworld/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +47,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Manipulation">
-    <configuration name="Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.Concatenation" />
+  <component name="RunManager" selected="Application.ScannerClass">
+    <configuration name="MaxMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheMathClass.MaxMethod" />
       <module name="java-practice-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="TheMathClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloworld.HelloWorld" />
+    <configuration name="NumberFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="formattingnumbers.NumberFormat" />
       <module name="java-practice-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="helloworld.*" />
+          <option name="PATTERN" value="formattingnumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Manipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.Manipulation" />
+    <configuration name="RandomMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheMathClass.RandomMethod" />
       <module name="java-practice-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="TheMathClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReferenceTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ReferenceTypes" />
+    <configuration name="ScannerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="readinginput.ScannerClass" />
       <module name="java-practice-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.*" />
+          <option name="PATTERN" value="readinginput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variablesandconstants.variable" />
+    <configuration name="minMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheMathClass.minMethod" />
       <module name="java-practice-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variablesandconstants.*" />
+          <option name="PATTERN" value="TheMathClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Manipulation" />
-        <item itemvalue="Application.Concatenation" />
-        <item itemvalue="Application.ReferenceTypes" />
-        <item itemvalue="Application.variable" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.ScannerClass" />
+        <item itemvalue="Application.NumberFormat" />
+        <item itemvalue="Application.RandomMethod" />
+        <item itemvalue="Application.minMethod" />
+        <item itemvalue="Application.MaxMethod" />
       </list>
     </recent_temporary>
   </component>
